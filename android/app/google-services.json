@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328817534839",
+    "project_id": "cloud-computing-20221",
+    "storage_bucket": "cloud-computing-20221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328817534839:android:53810c8da42576774fe372",
+        "android_client_info": {
+          "package_name": "com.example.firebase_baas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328817534839-qu69dscp8vhj0du0t0usjfiuvap5ika5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_baas",
+            "certificate_hash": "f3060bb56b62fea0f28a8108178cd56f9cf739ac"
+          }
+        },
+        {
+          "client_id": "328817534839-ua0ftnmek4ol790g4sbg2nem7dr5j5ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGBcB-A1BowgvcndYkgbIARsC6VPolZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328817534839-ua0ftnmek4ol790g4sbg2nem7dr5j5ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
